@@ -3,8 +3,8 @@
   "locale": "en_US",
   "platform": "4.3.2",
   "metadata": {
-    "appmode": "rmd-static",
-    "primary_rmd": "Week_10_Transformations.Rmd",
+    "appmode": "shiny",
+    "primary_rmd": null,
     "primary_html": null,
     "content_category": null,
     "has_parameters": false
@@ -3423,14 +3423,14 @@
     }
   },
   "files": {
+    "app.R": {
+      "checksum": "fee3c40a33f8158aabd5a65aa0bdff45"
+    },
     "bivariate_temp.R": {
       "checksum": "bc322c5b6c4b49b9dbc5fe7348d6a7a5"
     },
     "CLT_app.R": {
       "checksum": "8c0af72041b6d0b7ec5d22a245b5bf19"
-    },
-    "CLT2_app.R": {
-      "checksum": "fee3c40a33f8158aabd5a65aa0bdff45"
     },
     "Week_10_Transformations.nb.html": {
       "checksum": "f08febd04aa731eea5346e59222783e5"
